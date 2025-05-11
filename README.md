@@ -1,20 +1,20 @@
-#**Mapa de puntos de consumo – Demo**
+# **Mapa de puntos de consumo – Demo**
 
 Aplicación interactiva desarrollada en **Streamlit** para visualizar puntos de consumo de drogas y servicios relacionados en la ciudad de Barcelona.
 Esta es una **versión demo** que utiliza **datos completamente ficticios**, creada con fines educativos y de divulgación técnica.
 
 
-##**📊 Objetivo de la app**
+## **📊 Objetivo de la app**
 Esta herramienta busca simular una aplicación para el análisis territorial de restos de consumo de drogas y recursos de atención en el espacio urbano.
 Permite explorar visualmente los datos por barrio, tipo de resto o servicio, y su distribución temporal.
 Puede ser útil como modelo para iniciativas de reducción de daños, salud comunitaria o investigación social aplicada.
 
-##**📷 Vista previa**
+## **📷 Vista previa**
 
 ![Capturas de la app](images)
 
 
-##**🚀 Funcionalidades principales**
+## **🚀 Funcionalidades principales**
 
 Visualización interactiva en mapa de:
 - Restos de consumo (jeringuillas, utensilios, etc.)
@@ -24,13 +24,13 @@ Visualización interactiva en mapa de:
 - Filtro por rango de fechas reales (mes y año).
 - Acceso protegido por contraseña configurable.
 
-##**🧪 Demo pública**
+## **🧪 Demo pública**
 
 🔗 [Abrir app en Streamlit Cloud](https://mapapuntosdeconsumodemo.streamlit.app/)
 🔐 Contraseña de acceso: holademo
 
 
-##**📁 Estructura del repositorio**
+## **📁 Estructura del repositorio**
 
 mapa_puntos_consumo_demo/
 ├── .gitignore               # Archivos y carpetas ignorados por Git
@@ -50,7 +50,7 @@ mapa_puntos_consumo_demo/
    └── secrets.toml         # ⚠️ No incluir en proyecto real. Incluir en .gitignore
    
 
-##**🔐 ¿Qué es secrets.toml y cómo se configura?**
+## **🔐 ¿Qué es secrets.toml y cómo se configura?**
 
 La app utiliza un archivo llamado **secrets.toml** para cargar datos y proteger el acceso con contraseña.
 En proyectos reales, este archivo **no debe subirse** al repositorio porque suele contener información sensible.
@@ -73,7 +73,7 @@ en la carpeta inputs/ para que puedas ejecutar la app sin configuración adicion
     ruta_datos_servicios = st.secrets["data_2_url"] ```
 
 
-##🛠️ **Cómo ejecutar la app en local**
+## 🛠️ **Cómo ejecutar la app en local**
 
 1. Clona el repositorio:
    ``` python
@@ -86,18 +86,21 @@ en la carpeta inputs/ para que puedas ejecutar la app sin configuración adicion
    streamlit run app.py```
    
 
-##📌 **Notas**
+## 📌 **Notas**
 
 - Este proyecto es una adaptación ficticia para mostrar el funcionamiento de
   una herramienta orientada al análisis territorial del consumo de drogas y los servicios de apoyo.
 - No contiene información real.
 - Inspirado en iniciativas reales de reducción de daños y salud comunitaria.
 
-  ##👤 **Autoría**
+  ## 👤 **Autoría**
   
   Miguel Ángel García León
+  
   📧 miiguelleon@gmail.com
+  
   🔗 [LinkedIn](www.linkedin.com/in/miguel-ángel-garcía-león)
+  
   🔗 [GitHub](https://github.com/MikiLeon)
    
 
