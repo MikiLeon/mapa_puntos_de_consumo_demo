@@ -75,10 +75,11 @@ en la carpeta inputs/ para que puedas ejecutar la app sin configuración adicion
 └── **🧩 ¿Cómo acceder a los secretos desde el código?**
     Si tu archivo **secrets.toml** tiene este contenido:
     
-    ```toml
+  ``` toml
     access_password = "demo123"
     data_1_url = "inputs/datos_consumo.csv"
-    data_2_url = "inputs/datos_servicios.csv" ```
+    data_2_url = "inputs/datos_servicios.csv"
+  ```
 
   ``` python
     import streamlit as st
