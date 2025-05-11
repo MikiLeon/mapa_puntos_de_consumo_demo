@@ -94,13 +94,16 @@ en la carpeta inputs/ para que puedas ejecutar la app sin configuración adicion
 
 1. Clona el repositorio:
    ``` python
-   git clone https://github.com/MikiLeon/mapa_puntos_consumo_demo.git```
+   git clone https://github.com/MikiLeon/mapa_puntos_consumo_demo.git
+   ```
 2. Instala las dependencias:
    ``` python
-   pip install -r requirements.txt ```
+   pip install -r requirements.txt
+   ```
 3. Ejecuta la app:
    ``` python
-   streamlit run app.py```
+   streamlit run app.py
+   ```
    
 
 ## 📌 **Notas**
