@@ -85,7 +85,8 @@ en la carpeta inputs/ para que puedas ejecutar la app sin configuración adicion
     # Acceder a los valores del archivo secrets.toml
     password_correcta = st.secrets["access_password"]
     ruta_datos_consumo = st.secrets["data_1_url"]
-    ruta_datos_servicios = st.secrets["data_2_url"] ```
+    ruta_datos_servicios = st.secrets["data_2_url"]
+```
 
 
 ## 🛠️ **Cómo ejecutar la app en local**
