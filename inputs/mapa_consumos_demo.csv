@@ -1,0 +1,52 @@
+Mes,CODI_UA,Barrio,Distrito,lat,lon,Tipo,Cantidad,Observaciones
+03/25,1,El Raval,Ciutat Vella,41.379158,2.168315,RC:Desc. Intravenoso,10,
+03/25,1,El Raval,Ciutat Vella,41.378650,2.166485,Jeringuillas,13,
+03/25,65,El Clot,Sant Martí,41.408809,2.190357,RC:Desc. Intravenoso,2,
+03/25,68,El Poblenou,Sant Martí,41.397040,2.207457,Jeringuillas,8,
+03/25,65,El Clot,Sant Martí,41.408809,2.190357,Jeringuillas,7,
+03/25,6,La Sagrada Família,Eixample,41.40578,2.176656,RC: Crack Fumada,24,
+03/25,71,Provençals del Poblenou,Sant Martí,41.41262,2.206591,RC: Heroína Fumada,5,
+03/25,6,La Sagrada Família,Eixample,41.40569,2.176621,Jeringuillas,13,
+03/25,71,Provençals del Poblenou,Sant Martí,41.41517,2.20878,RC:Desc. Intravenoso,39,
+03/25,65,El Clot,Sant Martí,41.408809,2.190357,Jeringuillas,2,
+03/25,71,Provençals del Poblenou,Sant Martí,41.41517,2.20878,Jeringuillas,22,
+03/25,71,Provençals del Poblenou,Sant Martí,41.41517,2.20878,RC:Desc. Intravenoso,22,
+04/25,24,Les Tres Torres,Sarrià-Sant Gervasi,41.398089,2.129820,RC: Heroína Fumada,13,
+04/25,12,La Marina del Prat Vermell,Sants-Montjuïc,41.34445,2.14297,RC: Heroína Fumada,9,
+04/25,49,Canyelles,Nou Barris,41.44170,2.16562,RC:Desc. Intravenoso,1,
+02/25,45,Porta,Nou Barris,41.43635,2.17780,RC:Desc. Intravenoso,1,
+04/25,45,Porta,Nou Barris,41.43594,2.17885,RC: Crack Fumada,1,
+04/25,53,La Trinitat Nova,Nou Barris,41.447379,2.187601,RC:Desc. Intravenoso,14,
+12/24,71,Provençals del Poblenou,Sant Martí,41.41517,2.20878,RC:Desc. Intravenoso,6,
+04/25,46,Turó de la Peira,Nou Barris,41.433146,2.167005,RC:Desc. Intravenoso,15,campo de futbol
+03/25,6,La Sagrada Família,Eixample,41.40590,2.176656,RC:Desc. Intravenoso,14,
+03/25,6,La Sagrada Família,Eixample,41.40568,2.176675,RC: Heroína Fumada,20,
+03/25,6,La Sagrada Família,Eixample,41.405763,2.176623,RC: Desc. Fumado,13,
+04/25,53,La Trinitat Nova,Nou Barris,41.447379,2.187601,Jeringuillas,5,
+04/25,53,La Trinitat Nova,Nou Barris,41.447379,2.187601,RC:Desc. Intravenoso,7,
+04/25,31,Vila de Gràcia,Gràcia,41.408257,2.156993,Jeringuillas,8,
+04/25,31,Vila de Gràcia,Gràcia,41.408257,2.156993,RC: Crack Fumada,26,
+04/25,46,Turó de la Peira,Nou Barris,41.433834,2.164651,Jeringuillas,2,entrada c/ Camós
+04/25,46,Turó de la Peira,Nou Barris,41.433834,2.164651,RC:Desc. Intravenoso,6,entrada c/ Camós
+04/25,45,Porta,Nou Barris,41.436062, 2.177802,RC:Desc. Intravenoso,1,
+04/25,45,Porta,Nou Barris,41.435442,2.179416,RC: Heroína Fumada,2,
+04/25,46,Turó de la Peira,Nou Barris,41.433834,2.164651,Jeringuillas,1,entrada c/ Camós
+11/24,46,Turó de la Peira,Nou Barris,41.433834,2.164651,RC:Desc. Intravenoso,1,entrada c/ Camós
+04/25,53,La Trinitat Nova,Nou Barris,41.447379,2.187601,RC:Desc. Intravenoso,5,
+04/25,46,Turó de la Peira,Nou Barris,41.432821,2.167867,RC:Desc. Intravenoso,2,basura
+08/25,46,Turó de la Peira,Nou Barris,41.43309,2.16742,Jeringuillas,1,basura
+04/25,46,Turó de la Peira,Nou Barris,41.433146,2.167005,Jeringuillas,1,campo de futbol
+04/25,46,Turó de la Peira,Nou Barris,41.433146,2.167005,RC:Desc. Intravenoso,5,campo de futbol
+04/25,21,Pedralbes,Les Corts,41.390504,2.110561,RC:Desc. Intravenoso,25,
+01/24,21,Pedralbes,Les Corts,41.390590,2.110565,Jeringuillas,25,
+04/25,21,Pedralbes,Les Corts,41.390678,2.110556,RC:Desc. Intravenoso,9,
+03/24,21,Pedralbes,Les Corts,41.390556,2.110576,RC: Heroína Fumada,12,
+10/24,21,Pedralbes,Les Corts,41.390504,2.110587,RC: Crack Fumada,31,
+04/25,46,Turó de la Peira,Nou Barris,41.433146,2.167005,RC:Desc. Intravenoso,7,campo de futbol
+05/25,15,Hostafrancs,Sants-Montjuïc,41.377961,2.145378,RC:Desc. Intravenoso,1,escaleras
+05/25,18,Sants,Sants-Montjuïc,41.377642,2.139723,RC:Desc. Intravenoso,2,
+08/25,18,Sants,Sants-Montjuïc,41.377497,2.139801,Jeringuillas,1,plantas
+05/24,18,Sants,Sants-Montjuïc,41.377497,2.139801,RC:Desc. Intravenoso,1,
+07/24,53,La Trinitat Nova,Nou Barris,41.447379,2.187601,RC:Desc. Intravenoso,7,
+09/24,53,La Trinitat Nova,Nou Barris,41.447142,2.181192,RC:Desc. Intravenoso,2,
+05/25,53,La Trinitat Nova,Nou Barris,41.447142,2.181192,Jeringuillas,1,

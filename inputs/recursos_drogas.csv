@@ -1,0 +1,27 @@
+Nombre,Distrito,Tipo,lat,lon
+ CAS Baluard ,Ciutat Vella,CAS (con espacio de consumo supervisado),41.37637430597522,2.1738295134369015
+CAS Sants,Sants-Montjuïc,CAS (con espacio de consumo supervisado),41.381978301056954,2.136500226955333
+ CAS Sarrià,Sarrià-Sant Gervasi,CAS (con espacio de consumo supervisado),41.40345149543266,2.1295391711322336
+ CAS Vall Hebron,Horta-Guinardó,CAS (con espacio de consumo supervisado),41.42764611016711,2.1426326269394806
+ CAS Garbivent,Sant Andreu,CAS (con espacio de consumo supervisado),41.42721084469291,2.190689684612732
+ CAS Fòrum,Sant Martí,CAS (con espacio de consumo supervisado),41.41318253909774,2.218885928798409
+ CAS Lluís Companys,Ciutat Vella,CAS (con espacio de consumo supervisado),41.39003703963125,2.180900128789915
+ CAS Les Corts,Les Corts,CAS (con espacio de consumo supervisado),41.3877303350318,2.1386254153054542
+ CSMiA Gràcia,Gràcia,CAS (con espacio de consumo supervisado),41.411085860604366,2.1543033151120965
+CAS Barceloneta,Ciutat Vella,CAS (sin espacio de consumo supervisado),41.38376204753989,2.1947530220724083
+CECAS,Ciutat Vella,CAS (sin espacio de consumo supervisado),41.38293539816494,2.1746693557816728
+U.Conductas Adictivas Hospital Clínic,Eixample,CAS (sin espacio de consumo supervisado),41.38950704036585,2.1521805778933922
+U. Conductas Adictivas Hospital Sant Pau,Horta-Guinardó,CAS (sin espacio de consumo supervisado),41.41562439813499,2.174784727629757
+CAS Horta-Guinardó,Horta-Guinardó,CAS (sin espacio de consumo supervisado),41.425887047808054,2.155040608583325
+CAS Nou Barris,Nou Barris,CAS (sin espacio de consumo supervisado),41.4473056294749,2.1866794220735835
+CRD Robadors,Ciutat Vella,Recursos de Reducción de Daños,41.37992712726098,2.1705947309694102
+Metzineres,Ciutat Vella,Recursos de Reducción de Daños,41.38091440146699,2.166162606733841
+Metabus (Nou Barris),Nou Barris,Unidad Mobil de Dispensació de Metadona,41.44787938710002,2.180862963328859
+Metabus (Zona Franca),Sants-Montjuïc,Unidad Mobil de Dispensació de Metadona,41.355140987073916,2.13873981911523
+Metabus (Glòries),Sant Martí,Unidad Mobil de Dispensació de Metadona,41.40011098718865,2.1870197461970773
+Metabus (Horta),Horta-Guinardó,Unidad Mobil de Dispensació de Metadona,41.42693783670762,2.143818797686697
+Metabus (Les Corts),Les Corts,Unidad Mobil de Dispensació de Metadona,41.39320743527945,2.1232331455230407
+Servicio de Orientación sobre Drogas,Eixample,Otros Recursos,41.39166383287372,2.158691113566789
+Antena CAS Sants - CAP Carles Riba,Sants-Montjuïc,Otros Recursos,41.35859552948469,2.1442110931982796
+Centre Residencial Integral Galena,Horta-Guinardó,Otros Recursos,41.41336612315321,2.1711838643675287
+Antena CAS Nou Barris - CAP Ciutat Meridiana,Nou Barris,Otros Recursos,41.46077110596731,2.1805288950621806
