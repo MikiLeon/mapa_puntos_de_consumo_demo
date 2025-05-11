@@ -33,6 +33,7 @@ Visualización interactiva en mapa de:
 ## **📁 Estructura del repositorio**
 
 mapa_puntos_consumo_demo/
+
 ├── .gitignore               # Archivos y carpetas ignorados por Git
 
 ├── LICENSE                  # Licencia del proyecto
