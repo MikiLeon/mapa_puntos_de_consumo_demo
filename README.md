@@ -34,19 +34,33 @@ Visualización interactiva en mapa de:
 
 mapa_puntos_consumo_demo/
 ├── .gitignore               # Archivos y carpetas ignorados por Git
+
 ├── LICENSE                  # Licencia del proyecto
+
 ├── README.md                # Documentación principal del proyecto
+
 ├── app_home.py              # App principal con menú y navegación
+
 ├── app_mapa_interactivo.py  # Visualización del mapa interactivo
+
 ├── app_stadistics.py        # Visualización de estadísticas (si aplica)
+
 ├── requirements.txt         # Dependencias del entorno
+
 ├── utils.py                 # Funciones auxiliares
+
 ├── inputs/                  # Datos ficticios utilizados por la app.⚠️ Si son datos sensibles, no incluir en proyecto real. Incluir en .gitignore
+
 │   ├── mapa_consumos_demo.csv
+
 │   └── recursos_drogas.csv
+
 ├── images/                 # Capturas de la app
+
 │   └── captura_demo.png
+
 └── .streamlit/
+
    └── secrets.toml         # ⚠️ No incluir en proyecto real. Incluir en .gitignore
    
 
