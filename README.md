@@ -80,7 +80,7 @@ en la carpeta inputs/ para que puedas ejecutar la app sin configuración adicion
     data_1_url = "inputs/datos_consumo.csv"
     data_2_url = "inputs/datos_servicios.csv" ```
 
- └── ``` python
+  ``` python
     import streamlit as st
     # Acceder a los valores del archivo secrets.toml
     password_correcta = st.secrets["access_password"]
