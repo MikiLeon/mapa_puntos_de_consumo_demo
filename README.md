@@ -51,17 +51,17 @@ mapa_puntos_consumo_demo/
 
 ├── inputs/                  # Datos ficticios utilizados por la app.⚠️ Si son datos sensibles, no incluir en proyecto real. Incluir en .gitignore
 
-   ├── mapa_consumos_demo.csv
+|  ├── mapa_consumos_demo.csv
 
-   └── recursos_drogas.csv
+|  └── recursos_drogas.csv
 
 ├── images/                 # Capturas de la app
 
-   └── captura_demo.png
+|   └── captura_demo.png
 
 └── .streamlit/
 
-   └── secrets.toml         # ⚠️ No incluir en proyecto real. Incluir en .gitignore
+|  └── secrets.toml         # ⚠️ No incluir en proyecto real. Incluir en .gitignore
    
 
 ## **🔐 ¿Qué es secrets.toml y cómo se configura?**
