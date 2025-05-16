@@ -102,7 +102,7 @@ en la carpeta inputs/ para que puedas ejecutar la app sin configuración adicion
    ```
 3. Ejecuta la app:
    ``` python
-   streamlit run app.py
+   streamlit run app_home.py
    ```
    
 
@@ -112,6 +112,11 @@ en la carpeta inputs/ para que puedas ejecutar la app sin configuración adicion
   una herramienta orientada al análisis territorial del consumo de drogas y los servicios de apoyo.
 - No contiene información real.
 - Inspirado en iniciativas reales de reducción de daños y salud comunitaria.
+
+## Licencia
+
+Este proyecto está licenciado bajo la [Licencia Apache-2.0](LICENSE).  
+Consulta el archivo LICENSE para más detalles o visita la [descripción oficial de la licencia Apache]( http://www.apache.org/licenses/).
 
   ## 👤 **Autoría**
   
